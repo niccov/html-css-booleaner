@@ -29,6 +29,25 @@ main section h1{
     font-size: 12px;
 }
 
-.sezione1 span{
+.sezione1 .scritta{
     color: grey;
+}
+
+.foto1{
+    margin-left: 15px;
+    height: 372px;
+    width: 600px;
+    margin-top: 10px;
+}
+
+.foto2{
+    height: 372px;
+    width: 520px;
+    margin-top: 10px;
+}
+
+.autori-foto{
+    color: black;
+    margin-left: 15px;
+    font-size: 14px;
 }
