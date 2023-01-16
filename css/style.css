@@ -80,3 +80,42 @@ main section h1{
 .sezione5{
     margin-top: 30px;
 }
+
+.sezione6{
+    margin-top: 30px;
+}
+.sezione6 h5{
+    color: grey;
+    font-size: 25px;
+}
+
+.container2{
+    width: 312px;
+    height: 208px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-image: url(../img/monitor.jpg);
+}
+
+.container2 h4{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    font-size: 25px;
+}
+
+.container3{
+    width: 312px;
+    height: 208px;
+    margin-top: 10px;
+    background-image: url(../img/graph.jpg);
+}
+
+.container3 h4{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    font-size: 25px;
+}
