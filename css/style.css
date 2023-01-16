@@ -59,3 +59,21 @@ main section h1{
 .sezione3{
     margin: 30px;
 }
+
+.sezione4 table {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+
+.sezione4 thead{
+    background-color: #00688B;
+    color: white;
+    
+}
+
+.riga1{
+    background-color: #87CEFF;
+}
+
