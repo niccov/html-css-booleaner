@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgb(65, 105, 225);
+}
+.container{
+    height: 90px;
+    width: 100%;
+    background-image: url(../../img/pattern.png);
+    background-size: contain;
+    background-size: 340px 180px;
+}
+
+#logo{
+    height: 100px;
+    width: 180px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+main{
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+main section h1{
+    font-size: 50px;
+}
+
+#data{
+    font-size: 12px;
+}
+
+.sezione1 .scritta{
+    color: grey;
+}
+
+.foto1{
+    margin-left: 15px;
+    height: 312px;
+    width: 510px;
+    margin-top: 10px;
+}
+
+.foto2{
+    height: 312px;
+    width: 480px;
+    margin-top: 10px;
+}
+
+.autori-foto{
+    color: black;
+    margin-left: 15px;
+    font-size: 14px;
+}
+
+.sezione2{
+    margin-top: 30px;
+}
+
+.sezione3{
+    margin: 30px;
+}
+
+.sezione4 table {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+
+.sezione4 thead{
+    background-color: #00688B;
+    color: white;
+    
+}
+
+#half-width{
+    width: 50%;
+}
+
+.riga1{
+    background-color: #87CEFF;
+}
+
+.sezione5{
+    margin-top: 30px;
+}
+
+.sezione6{
+    margin-top: 30px;
+}
+.sezione6 h5{
+    color: grey;
+    font-size: 25px;
+}
+
+.container2{
+    width: 312px;
+    height: 208px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-image: url(../../img/monitor.jpg);
+}
+
+.container2 h4{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    font-size: 25px;
+}
+
+.container3{
+    width: 312px;
+    height: 208px;
+    margin-top: 10px;
+    background-image: url(../../img/graph.jpg);
+}
+
+.container3 h4{
+    color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    font-size: 25px;
+}
